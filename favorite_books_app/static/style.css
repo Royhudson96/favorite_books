@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    border: 1px solid rgb(54, 31, 31);
+    margin-top: 20px;
+}
+.container > h1{
+    text-align: center;
+    font-weight: bolder;
+}
+#one{
+    text-align: center;
+    font-weight: bolder;
+}
+#two{
+    text-align: center;
+    font-weight: bold;
+}
+a{
+    color: rgb(208, 219, 102);
+}
+
+textarea{
+    width: 200px;
+}
+
+#buttons{
+    display: flex;
+}
+
+#buttons > input{
+    margin-right: 50px;
+}
